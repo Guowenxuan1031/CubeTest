@@ -9,7 +9,7 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // 按名称获取需要控制的两个物体
+        // 按名称获取需要控制的两个物体234123
         cubeCorrect = GameObject.Find("CubeCorrect");
         cubeWrong = GameObject.Find("CubeWrong");
     }
